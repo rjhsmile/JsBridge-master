@@ -18,7 +18,7 @@ import com.github.lzyzsd.jsbridge.DefaultHandler;
 import com.google.gson.Gson;
 
 /**
- * master
+ * master分支测试
  */
 public class MainActivity extends Activity implements OnClickListener {
 
