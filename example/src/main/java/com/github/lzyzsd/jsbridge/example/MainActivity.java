@@ -17,6 +17,9 @@ import com.github.lzyzsd.jsbridge.CallBackFunction;
 import com.github.lzyzsd.jsbridge.DefaultHandler;
 import com.google.gson.Gson;
 
+/**
+ * 安卓和JS交互
+ */
 public class MainActivity extends Activity implements OnClickListener {
 
 	private final String TAG = "MainActivity";
